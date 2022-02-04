@@ -1,1 +1,2 @@
-# L-git
+# Learning-git
+Keeping it simple
